@@ -1,4 +1,4 @@
-import { ImageBackground, View } from 'react-native';
+import { ImageBackground, Keyboard, TouchableOpacity, View } from 'react-native';
 import { s } from './App.style'
 import hotbg from './assets/hot.png'
 import coldbg from './assets/cold.png'
